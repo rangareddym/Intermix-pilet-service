@@ -39,7 +39,9 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@types/dotenv": "^8.2.0",
     "apollo-server-express": "^2.6.9",
+    "aws-sdk": "^2.632.0",
     "connect-busboy": "0.0.2",
     "cors": "^2.8.5",
     "express": "^4.17.1",
@@ -69,6 +71,6 @@
     "tslint": "^5.18.0",
     "tslint-config-prettier": "^1.18.0",
     "tslint-plugin-prettier": "^2.0.1",
-    "typescript": "^3.5.3"
+    "typescript": "^3.7.5"
   }
 }
